@@ -1,3 +1,6 @@
 requests
 streamlit
 click==8
+pyqrcode
+pyzbar.pyzbar
+PIL
